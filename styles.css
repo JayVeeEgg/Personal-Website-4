@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgb(248, 0, 0);
+    background-color: bisque;
+}
+
+img{
+    max-width: 20vw;
+    border-radius: 45%;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.text>h1,p{
+    display:flex;
+    justify-content: center;
+}
